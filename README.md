@@ -21,3 +21,19 @@ Home page detail
 Watching Page
 ![v1](https://user-images.githubusercontent.com/11364619/171152870-918b74c7-dfe5-4d9a-8c21-9c29591a9dd2.png)
 
+
+Installation
+
+mkdir netflix-clone
+cd netflix-clone
+git clone https://github.com/okannalkann/Netflix-Clone.git .
+npm install
+cd api
+npm start
+
+SECOND CMD
+cd netflix-clone
+cd client
+npm start
+
+Browser will appear
