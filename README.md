@@ -25,15 +25,23 @@ Watching Page
 Installation
 
 mkdir netflix-clone
+
 cd netflix-clone
+
 git clone https://github.com/okannalkann/Netflix-Clone.git .
+
 npm install
+
 cd api
+
 npm start
 
 SECOND CMD
+
 cd netflix-clone
+
 cd client
+
 npm start
 
 Browser will appear
